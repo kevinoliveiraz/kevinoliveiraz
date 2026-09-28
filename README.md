@@ -32,7 +32,7 @@ Gosto de entender como um processo funciona, identificar onde ele pode melhorar 
 ## Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,supabase,git,github,vscode,linux,windows,docker,bash&theme=dark" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,supabase,git,github,vscode,linux,windows,docker,bash&theme=dark" alt="Tecnologias e ferramentas" />
 </p>
 
 ---

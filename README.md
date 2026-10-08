@@ -17,9 +17,7 @@
 
 Sou Kevin Cardoso. Estudo **Desenvolvimento Front-end no Instituto PROA**, no projeto Transforme-se, realizado em parceria com a **Serasa Experian**. Estou construindo minha carreira em tecnologia com foco em desenvolvimento web, automação e infraestrutura.
 
-Minha formação em Administração e minha experiência no Hospital São Paulo me levaram a olhar para os processos antes de pensar na solução. Foi nesse ambiente que criei o **HSP Localiza** e automações em **Google Sheets com Apps Script** para organizar informações, validar dados e apoiar controles operacionais.
 
-**Gosto de entender um processo, identificar o que pode melhorar e transformar isso em uma ferramenta útil.**
 
 <details>
 <summary><strong>Mais sobre minha trajetória</strong></summary>

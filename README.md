@@ -86,10 +86,10 @@ Atualmente, aprofundo meus conhecimentos em JavaScript, desenvolvimento web, aut
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kevinoliveiraz/kevinoliveiraz/output/pacman-contribution-graph-dark.svg"
+      srcset="https://raw.githubusercontent.com/kevinoliveiraz/kevinoliveiraz/output/pacman-contribution-graph-dark.svg?v=2"
     />
     <img
-      src="https://raw.githubusercontent.com/kevinoliveiraz/kevinoliveiraz/output/pacman-contribution-graph.svg"
+      src="https://raw.githubusercontent.com/kevinoliveiraz/kevinoliveiraz/output/pacman-contribution-graph.svg?v=2"
       alt="Pac-Man percorrendo minhas contribuições no GitHub"
       width="100%"
     />

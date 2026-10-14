@@ -83,14 +83,15 @@ Atualmente, aprofundo meus conhecimentos em JavaScript, desenvolvimento web, aut
 ## Atividade no GitHub
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/58a6ff/kevinoliveiraz"
-    alt="Calendário de contribuições de Kevin no GitHub"
-    width="100%"
-  />
-</p>
----
-
-<p align="center">
-  <strong>Desenvolvimento web • Automação de processos • Infraestrutura</strong>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kevinoliveiraz/kevinoliveiraz/output/pacman-contribution-graph-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/kevinoliveiraz/kevinoliveiraz/output/pacman-contribution-graph.svg"
+      alt="Pac-Man percorrendo minhas contribuições no GitHub"
+      width="100%"
+    />
+  </picture>
 </p>
